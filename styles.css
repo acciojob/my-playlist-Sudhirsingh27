@@ -4,7 +4,8 @@ body {
             font-family: Arial, sans-serif;
         }
 
-h1, h2 {
+        /* Headings */
+        h1, h2 {
             text-align: center;
         }
 
@@ -19,8 +20,8 @@ h1, h2 {
             color: blue;
         }
 
-
-.player_one, .player_two {
+        /* Player containers */
+        .player_one, .player_two {
             background-color: rgb(255, 255, 255);
             padding: 15px;
             border-radius: 10px;
@@ -28,6 +29,7 @@ h1, h2 {
             margin: 20px auto;
             text-align: center;
         }
- video, audio {
+
+        video, audio {
             width: 100%;
         }
