@@ -3,6 +3,22 @@ body {
             background-color: rgb(204, 204, 204);
             font-family: Arial, sans-serif;
         }
+
+h1, h2 {
+            text-align: center;
+        }
+
+        /* Playlist styles */
+        li {
+            list-style-type: none;
+            margin: 10px 0;
+        }
+
+        a {
+            text-decoration-line: none;
+            color: blue;
+        }
+
 .container_playlist{
 	display: flex;
 	justify-content: center;
