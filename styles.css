@@ -1,4 +1,8 @@
 /*  your css code here. If applicable */
+body {
+            background-color: rgb(204, 204, 204);
+            font-family: Arial, sans-serif;
+        }
 .container_playlist{
 	display: flex;
 	justify-content: center;
